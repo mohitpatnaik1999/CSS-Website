@@ -54,13 +54,17 @@ h3{
   text-align: left;
   line-height: 2;
 }
-.Python{
+.C++{
   width: 25%;
   float: right;
 }
-.Web-Dev{
+.Java{
   width: 25%;
   float: left;
+}
+.Web-Dev{
+  width: 25%;
+  float: right;
   margin-right: 30px;
 }
 
